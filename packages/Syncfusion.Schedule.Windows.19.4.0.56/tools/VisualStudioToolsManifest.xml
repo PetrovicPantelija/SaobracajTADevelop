@@ -1,0 +1,9 @@
+<FileList>
+
+<File Reference="Syncfusion.Schedule.Windows.dll">
+	<ContainsControls>True</ContainsControls>
+	<ToolboxItems UIFramework="WinForms" VSCategory="Syncfusion Controls for WinForms" BlendCategory="Syncfusion Controls for WinForms">
+		<Item Type="Syncfusion.Windows.Forms.Schedule.ScheduleControl"/>
+	</ToolboxItems>
+</File>
+</FileList>

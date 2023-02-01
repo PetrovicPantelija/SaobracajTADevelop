@@ -1,0 +1,1429 @@
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmDodeliGrupu.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmDozvoleGrupe.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmForme.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmFormePrava.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmKorisnici.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmKreirajGrupu.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmSistematizacija.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmSistematizacijaPovezivanje.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobili.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliDokumenta.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliKvarovi.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliPregledPrijava.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliRegistracija.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliServis.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmBolovanja.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmBrojSmena.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmCentralnaTablaCpajal.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmCentralnaTablaRN.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaGodišnjihOdmora.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaGodLOG.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaKvarova.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaCG.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaDokumenti.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaKragujevac.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaMilsped.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRAdaNeplaceno.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaPromene.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaRemont.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaSmederevo.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaTroskova.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmFinansije.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmIzracunZarada.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKontrola.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmLogAktivnosti.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMapa.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMapaOpis.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMUPDozvola.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMupMesto.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaStavkePorudzbine.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmObracunFiksni.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmOsnovnaZarada.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmParametriObracuna.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPlacenoNeplaceno.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPodtrase.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPravoAktivnosti.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPravoAktivnostiViseRadnika.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPredjenaKilometrazaLokomotiva.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledRN.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledSmena.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrikazSkladista.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDokumentaNajava.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDokumentaRadniNalog.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRada.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaPregled.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaZaglavlje.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmIskljuceniVagoni.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKasnjenja.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmLokomotiveNaTrasi.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajava.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajava20.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaPrevoznik.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajaveBezTeretnice.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledRID.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrekovremeniRad.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrijavaOdjava.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrijemnica.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPronadjiVagon.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPropratnice.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPutniNaloziPregled.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalog.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogPodRelacije.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogPregled.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRAdniNalogPregledPoLokomotivama.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogTraseLok.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogZaposleni.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNaloziPregled2.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRaspustiVagone.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmReceiveMail.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistator.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistratorDokumenta.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistratorPregled.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRIDPoNajavama.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRIDTeretnice.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmStampaPoAktivnostimaStavke.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmStampaRadnogNaloga.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnica.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicaKopiranjeStavki.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicePregled.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTest.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTimerPom.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTraseRadniNalog.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmZaradaMasinovodja.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmZarade.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicaTerenIzmena.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.WebMapa.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.frmMergePDF.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.frmPravljenjeVoza.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.frmSendEmailWithAttacment.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.frmZaposleniUkupno.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.GMap.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Main.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.MainP.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmAnalizaGO.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmAnalizaGOSum.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmPrijavaSmene.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmSlobodniDani.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmTokoviDokumentacije.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmTokoviDokumentacijeSlika.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Mobile.frmZavrsnaDokumentacija.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Properties.Resources.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarova.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarovaAnaliza.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarovaAuto.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmGrupaKvarova.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmGrupaKvarovaAuto.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmKvarovi.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmKvaroviAuto.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmLokomotivaVrstaPopisa.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmNamirenja.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmNamirenjaSumarno.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmPregledPopisa1.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaKvara.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaKvaraAuto.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaMasinovodje.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Servis.frmVrstePopisa.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmCenaPoRadniku.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmDodelaLokomotive.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmKopiranjeTeretnice.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmLogovanje.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmLokomotive.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmNHM.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmOsoblje.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPartnerji.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPravoZahtevZaNabavku.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPruge.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPrugeSpisak.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmRazlozi.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSerijeLokomotiva.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSifarnikKontrolnihGresaka.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSifarnikKontrolnihTipovaDokumenta.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStanice.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStatusiTrasa.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStatusVoza.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTelegrami.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTelegramiPrikazi.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTimovi.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTipPrevoza.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTipTelegrama.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTrasaStanice.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTrase.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTraseAnaliticki.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmVozila.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmVrsteAktivnosti.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmAnalizaAktivnosti.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmAnalizaPorudzbina.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmKalendar.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmNajavaArhivaAnaliza.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPlanRada.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledMasinovodje.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledMobilni.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledPopisa2.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Tehnologija.frmTehnologija.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Tehnologija.frmTehnologijaPregled.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Testiranje.frmGenerisanjeTestaKorisnik.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Testiranje.Obrasci.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Testiranje.Pitanja.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Testiranje.TestiranjeStampa.resources
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.csproj.GenerateResource.cache
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\RdlCompile.cache
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\RdlCompile.compiled
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.csproj.CoreCompileInputs.cache
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\AjaxMin.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\EntityFramework.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\GMap.NET.Core.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\itextsharp.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\MetroFramework.Design.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\MetroFramework.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Newtonsoft.Json.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\OpenPop.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.BulletGraph.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Calculate.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Calculate.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Chart.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Chart.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Compression.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Core.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Data.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.DataSource.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Diagram.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Diagram.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.DocIO.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Edit.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Gauge.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grid.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grid.Grouping.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grid.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.GridCommon.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Gridconverter.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.GridHelperClasses.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grouping.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.HTMLUI.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.HTMLUI.windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Licensing.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Linq.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Maps.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.MIME.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.OfficeChart.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Pdf.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PdfViewer.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PivotChart.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Presentation.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.ProjIO.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Schedule.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Schedule.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Scripting.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfBarcode.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfDataGrid.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfInput.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfListView.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfSmithChart.WinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Shared.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Shared.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SpellChecker.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Spreadsheet.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Tools.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Tools.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.TreeMap.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.XlsIO.Base.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Data.SqlClient.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Data.SQLite.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\VisualReactiveWinForms.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\EnvDTE.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Vsa.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\stdole.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.MSXML.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\EntityFramework.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Newtonsoft.Json.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.BulletGraph.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Calculate.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Calculate.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Chart.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Chart.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Compression.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Data.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.DataSource.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Diagram.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Diagram.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.DocIO.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Edit.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Gauge.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grid.Grouping.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.GridCommon.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Gridconverter.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.GridHelperClasses.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Grouping.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.HTMLUI.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.HTMLUI.windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Linq.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Maps.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.MIME.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.OfficeChart.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Pdf.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PdfViewer.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.PivotChart.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Presentation.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.ProjIO.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Schedule.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Schedule.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Scripting.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfBarcode.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfDataGrid.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfInput.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfListView.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SfSmithChart.WinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Spreadsheet.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.TreeMap.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Syncfusion.XlsIO.Base.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Data.SQLite.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\VisualReactiveWinForms.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Vsa.xml
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.csproj.AssemblyReference.cache
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.csproj.CopyComplete
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.exe
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.pdb
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Saobracaj.exe.config
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Saobracaj.exe
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Saobracaj.pdb
+C:\Users\pantelija\Source\Repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaLog.resources
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmPolozeneLokomotive.resources
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Administracija.frmPolozenePruge.resources
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Buffers.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Memory.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Numerics.Vectors.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.AccessControl.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Permissions.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Text.Json.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.ValueTuple.dll
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Buffers.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Data.SqlClient.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Memory.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Numerics.Vectors.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.AccessControl.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Security.Permissions.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Text.Json.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\bin\Release\System.ValueTuple.xml
+C:\Users\pantelija\source\repos\PantaITKP\Saobracaj\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMailNajava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Saobracaj.exe.config
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Saobracaj.exe
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Saobracaj.pdb
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\AjaxMin.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\GMap.NET.Core.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\itextsharp.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\MetroFramework.Design.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\MetroFramework.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Newtonsoft.Json.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\OpenPop.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.BulletGraph.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Compression.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Core.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Data.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DataSource.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DocIO.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Edit.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gauge.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Grouping.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridCommon.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gridconverter.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridHelperClasses.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grouping.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Licensing.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Linq.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Maps.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.MIME.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.OfficeChart.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Pdf.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PdfViewer.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotChart.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Presentation.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.ProjIO.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Scripting.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfBarcode.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfDataGrid.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfInput.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfListView.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfSmithChart.WinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SpellChecker.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Spreadsheet.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.TreeMap.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.XlsIO.Base.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Buffers.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SqlClient.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Memory.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.AccessControl.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Permissions.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Json.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.ValueTuple.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\VisualReactiveWinForms.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\EnvDTE.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Vsa.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\stdole.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.MSXML.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Newtonsoft.Json.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.BulletGraph.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Compression.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Core.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Data.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DataSource.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DocIO.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Edit.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gauge.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Grouping.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridCommon.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gridconverter.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridHelperClasses.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grouping.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Linq.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Maps.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.MIME.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.OfficeChart.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Pdf.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PdfViewer.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotChart.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Presentation.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.ProjIO.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Scripting.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfBarcode.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfDataGrid.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfInput.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfListView.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfSmithChart.WinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SpellChecker.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Spreadsheet.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.TreeMap.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.XlsIO.Base.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Buffers.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SqlClient.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Memory.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.AccessControl.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Permissions.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Json.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\System.ValueTuple.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\VisualReactiveWinForms.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Vsa.xml
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.AssemblyReference.cache
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmDodeliGrupu.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmDozvoleGrupe.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmForme.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmFormePrava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmKorisnici.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmKreirajGrupu.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmPolozeneLokomotive.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmPolozenePruge.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmSistematizacija.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmSistematizacijaPovezivanje.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobili.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliDokumenta.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliKvarovi.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliPregledPrijava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliRegistracija.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliServis.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmBolovanja.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmBrojSmena.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmCentralnaTablaCpajal.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmCentralnaTablaRN.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaGodišnjihOdmora.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaGodLOG.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaKvarova.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaCG.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaDokumenti.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaKragujevac.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaMilsped.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRAdaNeplaceno.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaPromene.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaRemont.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaSmederevo.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaTroskova.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmFinansije.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmIzracunZarada.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKontrola.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmLogAktivnosti.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMailNajava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMapa.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMapaOpis.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMUPDozvola.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMupMesto.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaLog.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaStavkePorudzbine.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmObracunFiksni.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmOsnovnaZarada.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmParametriObracuna.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPlacenoNeplaceno.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPodtrase.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPravoAktivnosti.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPravoAktivnostiViseRadnika.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPredjenaKilometrazaLokomotiva.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledRN.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledSmena.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrikazSkladista.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDokumentaNajava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDokumentaRadniNalog.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRada.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaPregled.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaZaglavlje.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmIskljuceniVagoni.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKasnjenja.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmLokomotiveNaTrasi.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajava20.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaPrevoznik.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajaveBezTeretnice.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledRID.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrekovremeniRad.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrijavaOdjava.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrijemnica.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPronadjiVagon.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPropratnice.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPutniNaloziPregled.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalog.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogPodRelacije.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogPregled.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRAdniNalogPregledPoLokomotivama.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogTraseLok.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogZaposleni.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNaloziPregled2.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRaspustiVagone.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmReceiveMail.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistator.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistratorDokumenta.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistratorPregled.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRIDPoNajavama.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRIDTeretnice.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmStampaPoAktivnostimaStavke.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmStampaRadnogNaloga.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnica.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicaKopiranjeStavki.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicePregled.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTest.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTimerPom.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTraseRadniNalog.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmZaradaMasinovodja.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmZarade.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicaTerenIzmena.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.WebMapa.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmMergePDF.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmPravljenjeVoza.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmSendEmailWithAttacment.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmZaposleniUkupno.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.GMap.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Main.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.MainP.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmAnalizaGO.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmAnalizaGOSum.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmPrijavaSmene.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmSlobodniDani.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmTokoviDokumentacije.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmTokoviDokumentacijeSlika.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmZavrsnaDokumentacija.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Properties.Resources.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarova.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarovaAnaliza.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarovaAuto.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmGrupaKvarova.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmGrupaKvarovaAuto.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmKvarovi.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmKvaroviAuto.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmLokomotivaVrstaPopisa.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmNamirenja.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmNamirenjaSumarno.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPregledPopisa1.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaKvara.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaKvaraAuto.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaMasinovodje.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmVrstePopisa.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmCenaPoRadniku.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmDodelaLokomotive.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmKopiranjeTeretnice.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmLogovanje.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmLokomotive.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmNHM.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmOsoblje.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPartnerji.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPravoZahtevZaNabavku.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPruge.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPrugeSpisak.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmRazlozi.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSerijeLokomotiva.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSifarnikKontrolnihGresaka.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSifarnikKontrolnihTipovaDokumenta.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStanice.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStatusiTrasa.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStatusVoza.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTelegrami.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTelegramiPrikazi.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTimovi.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTipPrevoza.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTipTelegrama.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTrasaStanice.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTrase.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTraseAnaliticki.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmVozila.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmVrsteAktivnosti.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmAnalizaAktivnosti.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmAnalizaPorudzbina.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmKalendar.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmNajavaArhivaAnaliza.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPlanRada.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledMasinovodje.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledMobilni.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledPopisa2.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Tehnologija.frmTehnologija.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Tehnologija.frmTehnologijaPregled.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.frmGenerisanjeTestaKorisnik.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.Obrasci.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.Pitanja.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.TestiranjeStampa.resources
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.GenerateResource.cache
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\RdlCompile.cache
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\RdlCompile.compiled
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.CoreCompileInputs.cache
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.CopyComplete
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.exe
+C:\Users\ZIT Beograd\source\repos\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.pdb
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmDodeliGrupu.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmDozvoleGrupe.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmForme.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmFormePrava.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmKorisnici.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmKreirajGrupu.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmPolozeneLokomotive.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmPolozenePruge.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmSistematizacija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmSistematizacijaPovezivanje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobili.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliDokumenta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliKvarovi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliPregledPrijava.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliRegistracija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmAutomobiliServis.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmBolovanja.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmBrojSmena.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmCentralnaTablaCpajal.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmCentralnaTablaRN.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaGodišnjihOdmora.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaGodLOG.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaKvarova.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaCG.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaDokumenti.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaKragujevac.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaMilsped.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRAdaNeplaceno.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaPromene.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaRemont.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaSmederevo.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaTroskova.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmFinansije.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmIzracunZarada.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKontrola.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmLogAktivnosti.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMailNajava.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMapa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMapaOpis.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMUPDozvola.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmMupMesto.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaLog.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaStavkePorudzbine.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmObracunFiksni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmOsnovnaZarada.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmParametriObracuna.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPlacenoNeplaceno.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPodtrase.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPravoAktivnosti.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPravoAktivnostiViseRadnika.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPredjenaKilometrazaLokomotiva.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledRN.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledSmena.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrikazSkladista.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDokumentaNajava.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDokumentaRadniNalog.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRada.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmEvidencijaRadaZaglavlje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmIskljuceniVagoni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKasnjenja.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmLokomotiveNaTrasi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajava.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajava20.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajavaPrevoznik.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmNajaveBezTeretnice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPregledRID.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrekovremeniRad.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrijavaOdjava.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPrijemnica.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPronadjiVagon.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPropratnice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmPutniNaloziPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalog.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogPodRelacije.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRAdniNalogPregledPoLokomotivama.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogTraseLok.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNalogZaposleni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRadniNaloziPregled2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRaspustiVagone.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmReceiveMail.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistator.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistratorDokumenta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRegistratorPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRIDPoNajavama.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmRIDTeretnice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmStampaPoAktivnostimaStavke.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmStampaRadnogNaloga.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnica.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicaKopiranjeStavki.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicePregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTest.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTimerPom.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTraseRadniNalog.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmZaradaMasinovodja.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmZarade.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmTeretnicaTerenIzmena.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.WebMapa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmMergePDF.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmPravljenjeVoza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmSendEmailWithAttacment.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.frmZaposleniUkupno.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.GMap.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Main.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.MainP.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmAnalizaGO.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmAnalizaGOSum.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmPrijavaSmene.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmSlobodniDani.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmTokoviDokumentacije.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmTokoviDokumentacijeSlika.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Mobile.frmZavrsnaDokumentacija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Properties.Resources.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarova.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarovaAnaliza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmEvidencijaKvarovaAuto.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmGrupaKvarova.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmGrupaKvarovaAuto.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmKvarovi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmKvaroviAuto.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmLokomotivaVrstaPopisa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmNamirenja.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmNamirenjaSumarno.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPregledPopisa1.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaKvara.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaKvaraAuto.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPrijavaMasinovodje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmVrstePopisa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmCenaPoRadniku.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmDodelaLokomotive.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmKopiranjeTeretnice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmLogovanje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmLokomotive.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmNHM.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmOsoblje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPartnerji.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPravoZahtevZaNabavku.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPruge.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmPrugeSpisak.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmRazlozi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSerijeLokomotiva.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSifarnikKontrolnihGresaka.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmSifarnikKontrolnihTipovaDokumenta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStanice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStatusiTrasa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmStatusVoza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTelegrami.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTelegramiPrikazi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTimovi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTipPrevoza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTipTelegrama.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTrasaStanice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTrase.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmTraseAnaliticki.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmVozila.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmVrsteAktivnosti.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmAnalizaAktivnosti.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmAnalizaPorudzbina.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmKalendar.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmNajavaArhivaAnaliza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPlanRada.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledMasinovodje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledMobilni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.SyncForm.frmPregledPopisa2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Tehnologija.frmTehnologija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Tehnologija.frmTehnologijaPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.frmGenerisanjeTestaKorisnik.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.Obrasci.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.Pitanja.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Testiranje.TestiranjeStampa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.GenerateResource.cache
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\RdlCompile.cache
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\RdlCompile.compiled
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.CoreCompileInputs.cache
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmCIRPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmDokumentaPrijemKontejneraKamion.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmDokumentaVozila.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmCMACGA.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmZadrzavanjeKotejneraPun.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmManipulacijeNalog.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmPregledTovarnihListova.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmPregledVozova.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmTovarniList.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmVoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Dokumeta.frmVozila.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.frmLogovanje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.frmManipulacijeFilter.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmCosco.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmFakturisanjeMan.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmManipulacijeGrupno.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMenadadzerPoVozu.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMenadzerPoKamionima.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMenadzerPoKamionuSpediter.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMenadzerPoManipulacijama.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMenadzerPretovar.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMenadzerPunoPrazno.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmMersk.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmSelectTransport1.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmSelectTransport2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmSelectTransport3.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmSelectTransport4.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmSelectTransport5.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmSelectTransport6.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmTransportIzv1.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Izvestaji.frmZadrzavanjeKotejnera.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmCene.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmDelovi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmDokumenta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmForme.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmGreske.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmKomitent.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmKomitentUgovori.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmKorisnici.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmLekarskiPregledi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmLicenceISertifikati.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmNacinDolaskaOdlaska.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmOrganizacionaJedinica.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmPozicija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmPravoPristupaFormi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmPredefinisanePoruke.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmSkladista.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmSkolskaSprema.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmStanice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmStatusRobe.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmStrucniIspiti.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmTipCenovnika.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmTipKontejnera.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmVrstaManipulacije.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmVrstaRobe.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmZaposleni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.frmZastitnaOdeca.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Testiranje.Sifarnici.PrvaProbaForma.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmDokumentaPrijemKontejneraVoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Saobracaj.exe.config
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Saobracaj.exe
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Saobracaj.pdb
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\AjaxMin.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.SqlServer.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\GMap.NET.Core.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\GMap.NET.WindowsForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\GMap.NET.WindowsPresentation.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\itextsharp.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\MetroFramework.Design.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\MetroFramework.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Logging.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Tokens.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WebForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.SqlServer.Types.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Newtonsoft.Json.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\OpenPop.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.BulletGraph.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Compression.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Core.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Data.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DataSource.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DocIO.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Edit.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gauge.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Grouping.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridCommon.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gridconverter.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridHelperClasses.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grouping.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Licensing.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Linq.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Maps.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.MIME.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.OfficeChart.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Pdf.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PdfViewer.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotChart.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Presentation.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.ProjIO.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Scripting.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfBarcode.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfDataGrid.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfInput.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfListView.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfSmithChart.WinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SpellChecker.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Spreadsheet.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.TreeMap.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.XlsIO.Base.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Buffers.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SqlClient.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.EF6.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.Linq.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Memory.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Numerics.Vectors.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.AccessControl.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.ProtectedData.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Permissions.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Principal.Windows.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Encodings.Web.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Json.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.ValueTuple.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\VisualReactiveWinForms.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\EnvDTE.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\stdole.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.MSXML.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\EntityFramework.SqlServer.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Logging.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Microsoft.IdentityModel.Tokens.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Newtonsoft.Json.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.BulletGraph.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Calculate.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Chart.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Compression.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Core.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Data.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DataSource.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Diagram.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.DocIO.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Edit.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gauge.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Grouping.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grid.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridCommon.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Gridconverter.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.GridHelperClasses.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Grouping.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.HTMLUI.windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Linq.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Maps.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.MIME.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.OfficeChart.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Pdf.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PdfViewer.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotAnalysis.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.PivotChart.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Presentation.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.ProjIO.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Schedule.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Scripting.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfBarcode.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfDataGrid.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfInput.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfListView.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SfSmithChart.WinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Shared.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.SpellChecker.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Spreadsheet.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.Tools.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.TreeMap.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\Syncfusion.XlsIO.Base.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Buffers.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SqlClient.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Data.SQLite.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Memory.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Numerics.Vectors.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.AccessControl.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Cryptography.ProtectedData.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Permissions.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Security.Principal.Windows.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Encodings.Web.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Text.Json.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\System.ValueTuple.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\VisualReactiveWinForms.xml
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.CopyComplete
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.exe
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.pdb
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPrijemKontejneraVoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPrijemVozomPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmPregledManipulacijaPoPartneru.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPrijemKontejneraKamionom.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmSelectTransport1.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmSelectTransport2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmSelectTransport3.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmSelectTransport4.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmSelectTransport5.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmSelectTransport6.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmLager.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmLagerOperater.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmMedjuskladisniPrenos.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmNalozi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPopis.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPopisPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPopisStampa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPopisUporedniPrikaz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPopisUporedniPrikaz2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPregledMedjuskladisniPrenos.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPregledOtprema.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPregledSkladistePrijem.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmPrometKontejnera.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmSkladisteOtprema.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmSkladistePrijem.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Promet.frmSredstvoRada.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmDokumentaPrijemKontejneraKamion.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPrijemKontejneraKamionPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmAutoprevozniList2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmCIR.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmKontejneriNaPrijemnici.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmManipulacije.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmNajavaKomitemtaDokument.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmNalogZaPrevoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledNarucenihManipulacija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPutniNalog.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmRadniNalogTransport.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmOtpremaKontejnera.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmBukingVoza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledAutoPrevozniList.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledNaloziZaPrevoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledOtpreme.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledOtpremeKamionom.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmBukingKolaKontrejner.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmDokumentaOtpremaKontejnera.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledPutnihNaloga.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmPregledRadniNaloziTransport.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Dokumeta.frmSpisakBukingaOtpreme.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\TrackModal.Izvestaji.frmDodatniList.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\GridScheduleSample.PropertyGridForm.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmMaticniPodatki.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmDelavci.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmDelovnaMesta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmProdajnaGrupa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmJediniceMere.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDogovori.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmNacinIsporuke.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Sifarnici.frmObjekt.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmKontaktOsobe.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Administracija.frmNotifikacije.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Servis.frmPlombe.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Dokumenta.frmDogovoriPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Main2.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.Brodovi.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.Carinarnice.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.Nalogodavci.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.Uvoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmKontejnerskiTerminali.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmSerijeKola.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmuvKvalitetKontejnera.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmVrstaCarinskogPostupka.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmVrstaRobeADR.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmVrstaRobeHS.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.fruvNacinPakovanja.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.UvozDokumenta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPregledNerasporedjeni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPregledPlanovaUtovara.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmUvozKonacnaZaglavlje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmFormiranjePlana.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPlanUtovaraOdgovorExcel.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.csproj.AssemblyReference.cache
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmVrstePostupakaUvoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPrijemVozaIzPlana.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmAnalizaUvoza.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmDirigacijaKontejneraZa.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmUvozKonacna.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmNapomenaZaPozicioniranje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPrebacivanjeIzPlanaUPlan.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmRadniNaloziInterni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmRadniNalogInterniPregled.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmForrmiranjePlanaDrumski.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPregledPlanoviUtovaraDrumski.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Uvoz.frmPregledRadnihNalogaInterni.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmIzvoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmIzvozDokumenta.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmKrajnjaDestinacija.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmMestaUtovara.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmAdresaStatusVozila.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmInspekciskiTretman.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmNaslovStatusaVozila.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmPregledKontejneraIzvoz.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmIzvozKonacna.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmIzvozKonacnaZaglavlje.resources
+D:\1-Razvoj\Operater\SaobracajZaObradu\Saobracaj\obj\Release\Saobracaj.Izvoz.frmPlanoviIzvoza.resources

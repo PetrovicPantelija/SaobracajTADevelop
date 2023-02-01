@@ -1,0 +1,10 @@
+<FileList>
+
+<File Reference="Syncfusion.Spreadsheet.Windows.dll">
+	<ContainsControls>True</ContainsControls>
+	<ToolboxItems UIFramework="WinForms" VSCategory="Syncfusion Controls for WinForms" BlendCategory="Syncfusion Controls for WinForms">
+		<Item Type="Syncfusion.Windows.Forms.Spreadsheet.Spreadsheet"/>
+		<Item Type="Syncfusion.Windows.Forms.Spreadsheet.SpreadsheetRibbon"/>
+	</ToolboxItems>
+</File>
+</FileList>

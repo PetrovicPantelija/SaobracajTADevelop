@@ -1,0 +1,9 @@
+<FileList>
+
+<File Reference="Syncfusion.PivotChart.Windows.dll">
+	<ContainsControls>True</ContainsControls>
+	<ToolboxItems UIFramework="WinForms" VSCategory="Syncfusion Controls for WinForms" BlendCategory="Syncfusion Controls for WinForms">
+		<Item Type="Syncfusion.Windows.Forms.PivotChart.PivotChart"/>
+	</ToolboxItems>
+</File>
+</FileList>

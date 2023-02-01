@@ -1,0 +1,9 @@
+<FileList>
+
+<File Reference="Syncfusion.SfSmithChart.WinForms.dll">
+	<ContainsControls>True</ContainsControls>
+	<ToolboxItems UIFramework="WinForms" VSCategory="Syncfusion Controls for WinForms" BlendCategory="Syncfusion Controls for WinForms">
+		<Item Type="Syncfusion.WinForms.SmithChart.SfSmithChart"/>
+	</ToolboxItems>
+</File>
+</FileList>

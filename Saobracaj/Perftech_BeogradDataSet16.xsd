@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TESTIRANJEDataSet16" targetNamespace="http://tempuri.org/TESTIRANJEDataSet16.xsd" xmlns:mstns="http://tempuri.org/TESTIRANJEDataSet16.xsd" xmlns="http://tempuri.org/TESTIRANJEDataSet16.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="TESTIRANJEConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="TESTIRANJEConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Saobracaj.Properties.Settings.GlobalReference.Default.TESTIRANJEConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TestoviZ8TableAdapter" GeneratorDataComponentClassName="TestoviZ8TableAdapter" Name="TestoviZ8" UserDataComponentName="TestoviZ8TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="TESTIRANJEConnectionString (Settings)" DbObjectName="TESTIRANJE.dbo.TestoviZ8" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT BrojTacnih, PotrebanBroj, Korisnik, Test, IDTesta, Datum, BrResenja, Mesto, Clan1, Clan2, Clan3,Zaposleni, Naziv FROM dbo.TestoviZ8</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="BrojTacnih" DataSetColumn="BrojTacnih" />
+              <Mapping SourceColumn="PotrebanBroj" DataSetColumn="PotrebanBroj" />
+              <Mapping SourceColumn="Korisnik" DataSetColumn="Korisnik" />
+              <Mapping SourceColumn="Test" DataSetColumn="Test" />
+              <Mapping SourceColumn="IDTesta" DataSetColumn="IDTesta" />
+              <Mapping SourceColumn="Datum" DataSetColumn="Datum" />
+              <Mapping SourceColumn="BrResenja" DataSetColumn="BrResenja" />
+              <Mapping SourceColumn="Mesto" DataSetColumn="Mesto" />
+              <Mapping SourceColumn="Clan1" DataSetColumn="Clan1" />
+              <Mapping SourceColumn="Clan2" DataSetColumn="Clan2" />
+              <Mapping SourceColumn="Clan3" DataSetColumn="Clan3" />
+              <Mapping SourceColumn="Zaposleni" DataSetColumn="Zaposleni" />
+              <Mapping SourceColumn="Naziv" DataSetColumn="Naziv" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="TESTIRANJEDataSet16" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="TESTIRANJEDataSet16" msprop:Generator_UserDSName="TESTIRANJEDataSet16">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TestoviZ8" msprop:Generator_TableClassName="TestoviZ8DataTable" msprop:Generator_TableVarName="tableTestoviZ8" msprop:Generator_TablePropName="TestoviZ8" msprop:Generator_RowDeletingName="TestoviZ8RowDeleting" msprop:Generator_RowChangingName="TestoviZ8RowChanging" msprop:Generator_RowEvHandlerName="TestoviZ8RowChangeEventHandler" msprop:Generator_RowDeletedName="TestoviZ8RowDeleted" msprop:Generator_UserTableName="TestoviZ8" msprop:Generator_RowChangedName="TestoviZ8RowChanged" msprop:Generator_RowEvArgName="TestoviZ8RowChangeEvent" msprop:Generator_RowClassName="TestoviZ8Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BrojTacnih" msprop:Generator_ColumnVarNameInTable="columnBrojTacnih" msprop:Generator_ColumnPropNameInRow="BrojTacnih" msprop:Generator_ColumnPropNameInTable="BrojTacnihColumn" msprop:Generator_UserColumnName="BrojTacnih" type="xs:int" minOccurs="0" />
+              <xs:element name="PotrebanBroj" msprop:Generator_ColumnVarNameInTable="columnPotrebanBroj" msprop:Generator_ColumnPropNameInRow="PotrebanBroj" msprop:Generator_ColumnPropNameInTable="PotrebanBrojColumn" msprop:Generator_UserColumnName="PotrebanBroj" type="xs:int" minOccurs="0" />
+              <xs:element name="Korisnik" msprop:Generator_ColumnVarNameInTable="columnKorisnik" msprop:Generator_ColumnPropNameInRow="Korisnik" msprop:Generator_ColumnPropNameInTable="KorisnikColumn" msprop:Generator_UserColumnName="Korisnik" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Test" msprop:Generator_ColumnVarNameInTable="columnTest" msprop:Generator_ColumnPropNameInRow="Test" msprop:Generator_ColumnPropNameInTable="TestColumn" msprop:Generator_UserColumnName="Test" type="xs:int" minOccurs="0" />
+              <xs:element name="IDTesta" msprop:Generator_ColumnVarNameInTable="columnIDTesta" msprop:Generator_ColumnPropNameInRow="IDTesta" msprop:Generator_ColumnPropNameInTable="IDTestaColumn" msprop:Generator_UserColumnName="IDTesta" type="xs:int" minOccurs="0" />
+              <xs:element name="Datum" msprop:Generator_ColumnVarNameInTable="columnDatum" msprop:Generator_ColumnPropNameInRow="Datum" msprop:Generator_ColumnPropNameInTable="DatumColumn" msprop:Generator_UserColumnName="Datum" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BrResenja" msprop:Generator_ColumnVarNameInTable="columnBrResenja" msprop:Generator_ColumnPropNameInRow="BrResenja" msprop:Generator_ColumnPropNameInTable="BrResenjaColumn" msprop:Generator_UserColumnName="BrResenja" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mesto" msprop:Generator_ColumnVarNameInTable="columnMesto" msprop:Generator_ColumnPropNameInRow="Mesto" msprop:Generator_ColumnPropNameInTable="MestoColumn" msprop:Generator_UserColumnName="Mesto" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Clan1" msprop:Generator_ColumnVarNameInTable="columnClan1" msprop:Generator_ColumnPropNameInRow="Clan1" msprop:Generator_ColumnPropNameInTable="Clan1Column" msprop:Generator_UserColumnName="Clan1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="71" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Clan2" msprop:Generator_ColumnVarNameInTable="columnClan2" msprop:Generator_ColumnPropNameInRow="Clan2" msprop:Generator_ColumnPropNameInTable="Clan2Column" msprop:Generator_UserColumnName="Clan2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="71" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Clan3" msprop:Generator_ColumnVarNameInTable="columnClan3" msprop:Generator_ColumnPropNameInRow="Clan3" msprop:Generator_ColumnPropNameInTable="Clan3Column" msprop:Generator_UserColumnName="Clan3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="71" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Zaposleni" msprop:Generator_ColumnVarNameInTable="columnZaposleni" msprop:Generator_ColumnPropNameInRow="Zaposleni" msprop:Generator_ColumnPropNameInTable="ZaposleniColumn" msprop:Generator_UserColumnName="Zaposleni" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="71" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Naziv" msprop:Generator_ColumnVarNameInTable="columnNaziv" msprop:Generator_ColumnPropNameInRow="Naziv" msprop:Generator_ColumnPropNameInTable="NazivColumn" msprop:Generator_UserColumnName="Naziv" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
