@@ -1175,6 +1175,12 @@
     <Compile Include="Dokumenta\frmTimerPom.Designer.cs">
       <DependentUpon>frmTimerPom.cs</DependentUpon>
     </Compile>
+    <Compile Include="Dokumenta\frmTrainList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dokumenta\frmTrainList.designer.cs">
+      <DependentUpon>frmTrainList.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dokumenta\frmTraseRadniNalog.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -1268,6 +1274,14 @@
     <Compile Include="Dokumenta\frmTeretnicaTerenIzmena.Designer.cs">
       <DependentUpon>frmTeretnicaTerenIzmena.cs</DependentUpon>
     </Compile>
+    <Compile Include="Dokumenta\TrainListItem\MRNModel.cs" />
+    <Compile Include="Dokumenta\TrainListItem\NHMModel.cs" />
+    <Compile Include="Dokumenta\TrainListItem\SealsModel.cs" />
+    <Compile Include="Dokumenta\TrainListItem\Total.cs" />
+    <Compile Include="Dokumenta\TrainListItem\TrainListItemDAO.cs" />
+    <Compile Include="Dokumenta\TrainListItem\TrainListItemModel.cs" />
+    <Compile Include="Dokumenta\TrainList\TrainListDAO.cs" />
+    <Compile Include="Dokumenta\TrainList\TrainListModel.cs" />
     <Compile Include="Dokumenta\WebMapa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -3254,6 +3268,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Dokumenta\frmTimerPom.resx">
       <DependentUpon>frmTimerPom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dokumenta\frmTrainList.resx">
+      <DependentUpon>frmTrainList.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dokumenta\frmTraseRadniNalog.resx">
       <DependentUpon>frmTraseRadniNalog.cs</DependentUpon>

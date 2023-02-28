@@ -805,10 +805,7 @@ namespace Saobracaj
             else { return; }
         }
 
-        private void toolStripTabItem2_Click(object sender, EventArgs e)
-        {
 
-        }
 
         private void toolStripButton119_Click(object sender, EventArgs e)
         {
@@ -1639,6 +1636,12 @@ namespace Saobracaj
         {
             Izvoz.frmPlanoviIzvoza pl = new Izvoz.frmPlanoviIzvoza();
             pl.Show();
+        }
+
+        private void toolStripButton216_Click(object sender, EventArgs e)
+        {
+            Dokumenta.frmTrainList frmTL = new Dokumenta.frmTrainList();
+            frmTL.Show();
         }
     }
 }
