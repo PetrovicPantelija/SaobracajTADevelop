@@ -1651,7 +1651,7 @@ namespace Saobracaj.Uvoz
         private void UbaciStavkuUsluge(int ID, int Manipulacija, double Cena)
         {
             InsertUvozKonacna uvK = new InsertUvozKonacna();
-            uvK.InsUbaciUsluguKonacna(Convert.ToInt32(txtID.Text), Manipulacija, Cena);
+            uvK.InsUbaciUsluguKonacna(Convert.ToInt32(txtID.Text), Manipulacija, Cena, 1);
             FillDG8();
         }
 
